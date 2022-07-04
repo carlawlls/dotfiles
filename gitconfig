@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = willmes.carla@gmail.com
+	name = Carla Willmes
